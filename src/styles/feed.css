@@ -1,0 +1,14 @@
+.feed {
+  width: 40%;
+  margin: 1rem auto;
+}
+.feed--write {
+  padding: 0.7rem 2rem;
+  background-color: #ee6b8e;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+  margin: 1rem 0;
+  font-weight: 700;
+  cursor: pointer;
+}
